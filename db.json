@@ -451,7 +451,7 @@
     {
       "symbol": "57-71",
       "name": "",
-      "number": "",
+      "number": "57-71",
       "atomicMass": "",
       "column": 3,
       "row": 6
@@ -595,7 +595,7 @@
     {
       "symbol": "89-103",
       "name": "",
-      "number": "",
+      "number": "89-103",
       "atomicMass": "",
       "column": 3,
       "row": 7
@@ -715,7 +715,7 @@
     {
       "symbol": "Og",
       "name": "оганесон",
-      "number": 117,
+      "number": 118,
       "atomicMass": "(294)",
       "column": 18,
       "row": 7
