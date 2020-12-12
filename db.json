@@ -1,16 +1,18 @@
 {
-  "posts":[
+  "elements": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "symbol": "H",
+      "name": "Водород",
+      "atomicMass": 1.00794,
+      "column": 1,
+      "row": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "symbol": "He",
+      "name": "Гелий",
+      "atomicMass": 4.002602,
+      "column": 18,
+      "row": 1
     }
   ]
 }
