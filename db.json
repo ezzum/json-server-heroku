@@ -722,6 +722,246 @@
         "atomicMass": "(294)",
         "column": 18,
         "row": 7
+      },
+      {
+        "symbol": "La",
+        "name": "лантан",
+        "number": 57,
+        "atomicMass": 138.91,
+        "column": 4,
+        "row": 9
+      },
+      {
+        "symbol": "Ce",
+        "name": "церий",
+        "number": 58,
+        "atomicMass": 140.12,
+        "column": 5,
+        "row": 9
+      },
+      {
+        "symbol": "Pr",
+        "name": "празеодим",
+        "number": 59,
+        "atomicMass": 140.91,
+        "column": 6,
+        "row": 9
+      },
+      {
+        "symbol": "Nd",
+        "name": "неодим",
+        "number": 60,
+        "atomicMass": 144.24,
+        "column": 7,
+        "row": 9
+      },
+      {
+        "symbol": "Pm",
+        "name": "прометий",
+        "number": 61,
+        "atomicMass": "(145)",
+        "column": 8,
+        "row": 9
+      },
+      {
+        "symbol": "Sm",
+        "name": "самарий",
+        "number": 62,
+        "atomicMass": 150.36,
+        "column": 9,
+        "row": 9
+      },
+      {
+        "symbol": "Eu",
+        "name": "европий",
+        "number": 63,
+        "atomicMass": 151.96,
+        "column": 10,
+        "row": 9
+      },
+      {
+        "symbol": "Gd",
+        "name": "гадолиний",
+        "number": 64,
+        "atomicMass": 157.25,
+        "column": 11,
+        "row": 9
+      },
+      {
+        "symbol": "Tb",
+        "name": "тербий",
+        "number": 65,
+        "atomicMass": 158.93,
+        "column": 12,
+        "row": 9
+      },
+      {
+        "symbol": "Dy",
+        "name": "диспрозий",
+        "number": 66,
+        "atomicMass": 162.50,
+        "column": 13,
+        "row": 9
+      },
+      {
+        "symbol": "Ho",
+        "name": "гольмий",
+        "number": 67,
+        "atomicMass": 164.93,
+        "column": 14,
+        "row": 9
+      },
+      {
+        "symbol": "Er",
+        "name": "эрбий",
+        "number": 68,
+        "atomicMass": 167.26,
+        "column": 15,
+        "row": 9
+      },
+      {
+        "symbol": "Tm",
+        "name": "тулий",
+        "number": 69,
+        "atomicMass": 168.93,
+        "column": 16,
+        "row": 9
+      },
+      {
+        "symbol": "Yb",
+        "name": "иттербий",
+        "number": 70,
+        "atomicMass": 173.05,
+        "column": 17,
+        "row": 9
+      },
+      {
+        "symbol": "Lu",
+        "name": "лютеций",
+        "number": 71,
+        "atomicMass": 174.97,
+        "column": 18,
+        "row": 9
+      },
+      {
+        "symbol": "Ac",
+        "name": "актиний",
+        "number": 89,
+        "atomicMass": "(227)",
+        "column": 4,
+        "row": 10
+      },
+      {
+        "symbol": "Th",
+        "name": "торий",
+        "number": 90,
+        "atomicMass": 232.04,
+        "column": 5,
+        "row": 10
+      },
+      {
+        "symbol": "Pa",
+        "name": "протактиний",
+        "number": 91,
+        "atomicMass": 231.04,
+        "column": 6,
+        "row": 10
+      },
+      {
+        "symbol": "U",
+        "name": "уран",
+        "number": 92,
+        "atomicMass": 238.03,
+        "column": 7,
+        "row": 10
+      },
+      {
+        "symbol": "Np",
+        "name": "нептуний",
+        "number": 93,
+        "atomicMass": "(237)",
+        "column": 8,
+        "row": 10
+      },
+      {
+        "symbol": "Pu",
+        "name": "плутоний",
+        "number": 94,
+        "atomicMass": "(244)",
+        "column": 9,
+        "row": 10
+      },
+      {
+        "symbol": "Am",
+        "name": "америций",
+        "number": 95,
+        "atomicMass": "(243)",
+        "column": 10,
+        "row": 10
+      },
+      {
+        "symbol": "Cm",
+        "name": "кюрий",
+        "number": 96,
+        "atomicMass": "(247)",
+        "column": 11,
+        "row": 10
+      },
+      {
+        "symbol": "Bk",
+        "name": "берклий",
+        "number": 97,
+        "atomicMass": "(247)",
+        "column": 12,
+        "row": 10
+      },
+      {
+        "symbol": "Cf",
+        "name": "калифорний",
+        "number": 98,
+        "atomicMass": "(251)",
+        "column": 13,
+        "row": 10
+      },
+      {
+        "symbol": "Es",
+        "name": "эйнштейний",
+        "number": 99,
+        "atomicMass": "(252)",
+        "column": 14,
+        "row": 10
+      },
+      {
+        "symbol": "Fm",
+        "name": "фермий",
+        "number": 100,
+        "atomicMass": "(257)",
+        "column": 15,
+        "row": 10
+      },
+      {
+        "symbol": "Md",
+        "name": "менделевий",
+        "number": 101,
+        "atomicMass": "(258)",
+        "column": 16,
+        "row": 10
+      },
+      {
+        "symbol": "No",
+        "name": "нобелий",
+        "number": 102,
+        "atomicMass": "(259)",
+        "column": 17,
+        "row": 10
+      },
+      {
+        "symbol": "Lr",
+        "name": "лоуренсий",
+        "number": 103,
+        "atomicMass": "(266)",
+        "column": 18,
+        "row": 10
       }
     ]
   }
