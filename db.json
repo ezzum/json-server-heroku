@@ -8,7 +8,7 @@
         "atomicMass": 1.007,
         "column": 1,
         "row": 1,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "He",
@@ -17,7 +17,7 @@
         "atomicMass": 4.002,
         "column": 18,
         "row": 1,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Li",
@@ -26,7 +26,7 @@
         "atomicMass": 6.941,
         "column": 1,
         "row": 2,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Be",
@@ -35,7 +35,7 @@
         "atomicMass": 9.012,
         "column": 2,
         "row": 2,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "B",
@@ -44,7 +44,7 @@
         "atomicMass": 10.811,
         "column": 13,
         "row": 2,
-        "group": "полуметалл"
+        "group": "semi-metal"
       },
       {
         "symbol": "C",
@@ -53,7 +53,7 @@
         "atomicMass": 12.0107,
         "column": 14,
         "row": 2,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "N",
@@ -62,7 +62,7 @@
         "atomicMass": 14.0067,
         "column": 15,
         "row": 2,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "O",
@@ -71,7 +71,7 @@
         "atomicMass": 15.9994,
         "column": 16,
         "row": 2,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "F",
@@ -80,7 +80,7 @@
         "atomicMass": 18.998,
         "column": 17,
         "row": 2,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Ne",
@@ -89,7 +89,7 @@
         "atomicMass": 20.1797,
         "column": 18,
         "row": 2,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Na",
@@ -98,7 +98,7 @@
         "atomicMass": 22.989,
         "column": 1,
         "row": 3,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Mg",
@@ -107,7 +107,7 @@
         "atomicMass": 24.3050,
         "column": 2,
         "row": 3,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Al",
@@ -116,7 +116,7 @@
         "atomicMass": 26.981,
         "column": 13,
         "row": 3,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Si",
@@ -125,7 +125,7 @@
         "atomicMass": 28.0855,
         "column": 14,
         "row": 3,
-        "group": "полуметалл"
+        "group": "semi-metal"
       },
       {
         "symbol": "P",
@@ -134,7 +134,7 @@
         "atomicMass": 30.973,
         "column": 15,
         "row": 3,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "S",
@@ -143,7 +143,7 @@
         "atomicMass": 32.065,
         "column": 16,
         "row": 3,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Cl",
@@ -152,7 +152,7 @@
         "atomicMass": 35.453,
         "column": 17,
         "row": 3,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Ar",
@@ -161,7 +161,7 @@
         "atomicMass": 39.948,
         "column": 18,
         "row": 3,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "K",
@@ -170,7 +170,7 @@
         "atomicMass": 39.0983,
         "column": 1,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ca",
@@ -179,7 +179,7 @@
         "atomicMass": 40.078,
         "column": 2,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Sc",
@@ -188,7 +188,7 @@
         "atomicMass": 44.955,
         "column": 3,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ti",
@@ -197,7 +197,7 @@
         "atomicMass": 47.867,
         "column": 4,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "V",
@@ -206,7 +206,7 @@
         "atomicMass": 50.9415,
         "column": 5,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Cr",
@@ -215,7 +215,7 @@
         "atomicMass": 51.996,
         "column": 6,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Mn",
@@ -224,7 +224,7 @@
         "atomicMass": 54.938,
         "column": 7,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Fe",
@@ -233,7 +233,7 @@
         "atomicMass": 55.845,
         "column": 8,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Co",
@@ -242,7 +242,7 @@
         "atomicMass": 58.933,
         "column": 9,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ni",
@@ -251,7 +251,7 @@
         "atomicMass": 58.6934,
         "column": 10,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Cu",
@@ -260,7 +260,7 @@
         "atomicMass": 63.546,
         "column": 11,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Zn",
@@ -269,7 +269,7 @@
         "atomicMass": 65.38,
         "column": 12,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ga",
@@ -278,7 +278,7 @@
         "atomicMass": 69.723,
         "column": 13,
         "row": 4,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ge",
@@ -287,7 +287,7 @@
         "atomicMass": 72.630,
         "column": 14,
         "row": 4,
-        "group": "полуметалл"
+        "group": "semi-metal"
       },
       {
         "symbol": "As",
@@ -296,7 +296,7 @@
         "atomicMass": 74.922,
         "column": 15,
         "row": 4,
-        "group": "полуметалл"
+        "group": "semi-metal"
       },
       {
         "symbol": "Se",
@@ -305,7 +305,7 @@
         "atomicMass": 78.971,
         "column": 16,
         "row": 4,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Br",
@@ -314,7 +314,7 @@
         "atomicMass": 79.904,
         "column": 17,
         "row": 4,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Kr",
@@ -323,7 +323,7 @@
         "atomicMass": 83.798,
         "column": 18,
         "row": 4,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Rb",
@@ -332,7 +332,7 @@
         "atomicMass": 85.468,
         "column": 1,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Sr",
@@ -341,7 +341,7 @@
         "atomicMass": 87.62,
         "column": 2,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Y",
@@ -350,7 +350,7 @@
         "atomicMass": 88.906,
         "column": 3,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Zr",
@@ -359,7 +359,7 @@
         "atomicMass": 91.224,
         "column": 4,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Nb",
@@ -368,7 +368,7 @@
         "atomicMass": 92.906,
         "column": 5,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Mo",
@@ -377,7 +377,7 @@
         "atomicMass": 95.95,
         "column": 6,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Tc",
@@ -386,7 +386,7 @@
         "atomicMass": "(98)",
         "column": 7,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ru",
@@ -395,7 +395,7 @@
         "atomicMass": 101.07,
         "column": 8,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Rh",
@@ -404,7 +404,7 @@
         "atomicMass": 102.91,
         "column": 9,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Pd",
@@ -413,7 +413,7 @@
         "atomicMass": 106.42,
         "column": 10,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ag",
@@ -422,7 +422,7 @@
         "atomicMass": 107.87,
         "column": 11,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Cd",
@@ -431,7 +431,7 @@
         "atomicMass": 112.41,
         "column": 12,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "In",
@@ -440,7 +440,7 @@
         "atomicMass": 114.82,
         "column": 13,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Sn",
@@ -449,7 +449,7 @@
         "atomicMass": 118.71,
         "column": 14,
         "row": 5,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Sb",
@@ -458,7 +458,7 @@
         "atomicMass": 121.76,
         "column": 15,
         "row": 5,
-        "group": "полуметалл"
+        "group": "semi-metal"
       },
       {
         "symbol": "Te",
@@ -467,7 +467,7 @@
         "atomicMass": 127.60,
         "column": 16,
         "row": 5,
-        "group": "полуметалл"
+        "group": "semi-metal"
       },
       {
         "symbol": "I",
@@ -476,7 +476,7 @@
         "atomicMass": 126.90,
         "column": 17,
         "row": 5,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Xe",
@@ -485,7 +485,7 @@
         "atomicMass": 131.29,
         "column": 18,
         "row": 5,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Cs",
@@ -494,7 +494,7 @@
         "atomicMass": 132.91,
         "column": 1,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ba",
@@ -503,7 +503,7 @@
         "atomicMass": 137.33,
         "column": 2,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "57-71",
@@ -512,7 +512,7 @@
         "atomicMass": "",
         "column": 3,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Hf",
@@ -521,7 +521,7 @@
         "atomicMass": 178.49,
         "column": 4,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ta",
@@ -530,7 +530,7 @@
         "atomicMass": 180.95,
         "column": 5,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "W",
@@ -539,7 +539,7 @@
         "atomicMass": 183.84,
         "column": 6,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Re",
@@ -548,7 +548,7 @@
         "atomicMass": 186.21,
         "column": 7,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Os",
@@ -557,7 +557,7 @@
         "atomicMass": 190.23,
         "column": 8,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ir",
@@ -566,7 +566,7 @@
         "atomicMass": 192.22,
         "column": 9,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Pt",
@@ -575,7 +575,7 @@
         "atomicMass": 195.08,
         "column": 10,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Au",
@@ -584,7 +584,7 @@
         "atomicMass": 196.97,
         "column": 11,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Hq",
@@ -593,7 +593,7 @@
         "atomicMass": 200.59,
         "column": 12,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Tl",
@@ -602,7 +602,7 @@
         "atomicMass": 204.38,
         "column": 13,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Pb",
@@ -611,7 +611,7 @@
         "atomicMass": 207.2,
         "column": 14,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Bi",
@@ -620,7 +620,7 @@
         "atomicMass": 208.98,
         "column": 15,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Po",
@@ -629,7 +629,7 @@
         "atomicMass": "(209)",
         "column": 16,
         "row": 6,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "At",
@@ -638,7 +638,7 @@
         "atomicMass": "(210)",
         "column": 17,
         "row": 6,
-        "group": "полуметалл"
+        "group": "semi-metal"
       },
       {
         "symbol": "Rn",
@@ -647,7 +647,7 @@
         "atomicMass": "(222)",
         "column": 18,
         "row": 6,
-        "group": "неметалл"
+        "group": "non-metal"
       },
       {
         "symbol": "Fr",
@@ -656,7 +656,7 @@
         "atomicMass": "(223)",
         "column": 1,
         "row": 7,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ra",
@@ -665,7 +665,7 @@
         "atomicMass": "(226)",
         "column": 2,
         "row": 7,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "89-103",
@@ -674,7 +674,7 @@
         "atomicMass": "",
         "column": 3,
         "row": 7,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Rf",
@@ -683,7 +683,7 @@
         "atomicMass": "(267)",
         "column": 4,
         "row": 7,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Db",
@@ -692,7 +692,7 @@
         "atomicMass": "(268)",
         "column": 5,
         "row": 7,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Sg",
@@ -701,7 +701,7 @@
         "atomicMass": "(269)",
         "column": 6,
         "row": 7,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Bh",
@@ -710,7 +710,7 @@
         "atomicMass": "(270)",
         "column": 7,
         "row": 7,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Hs",
@@ -719,7 +719,7 @@
         "atomicMass": "(277)",
         "column": 8,
         "row": 7,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Mt",
@@ -808,7 +808,7 @@
         "atomicMass": 138.91,
         "column": 4,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ce",
@@ -817,7 +817,7 @@
         "atomicMass": 140.12,
         "column": 5,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Pr",
@@ -826,7 +826,7 @@
         "atomicMass": 140.91,
         "column": 6,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Nd",
@@ -835,7 +835,7 @@
         "atomicMass": 144.24,
         "column": 7,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Pm",
@@ -844,7 +844,7 @@
         "atomicMass": "(145)",
         "column": 8,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Sm",
@@ -853,7 +853,7 @@
         "atomicMass": 150.36,
         "column": 9,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Eu",
@@ -862,7 +862,7 @@
         "atomicMass": 151.96,
         "column": 10,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Gd",
@@ -871,7 +871,7 @@
         "atomicMass": 157.25,
         "column": 11,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Tb",
@@ -880,7 +880,7 @@
         "atomicMass": 158.93,
         "column": 12,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Dy",
@@ -889,7 +889,7 @@
         "atomicMass": 162.50,
         "column": 13,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ho",
@@ -898,7 +898,7 @@
         "atomicMass": 164.93,
         "column": 14,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Er",
@@ -907,7 +907,7 @@
         "atomicMass": 167.26,
         "column": 15,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Tm",
@@ -916,7 +916,7 @@
         "atomicMass": 168.93,
         "column": 16,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Yb",
@@ -925,7 +925,7 @@
         "atomicMass": 173.05,
         "column": 17,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Lu",
@@ -934,7 +934,7 @@
         "atomicMass": 174.97,
         "column": 18,
         "row": 9,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Ac",
@@ -943,7 +943,7 @@
         "atomicMass": "(227)",
         "column": 4,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Th",
@@ -952,7 +952,7 @@
         "atomicMass": 232.04,
         "column": 5,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Pa",
@@ -961,7 +961,7 @@
         "atomicMass": 231.04,
         "column": 6,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "U",
@@ -970,7 +970,7 @@
         "atomicMass": 238.03,
         "column": 7,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Np",
@@ -979,7 +979,7 @@
         "atomicMass": "(237)",
         "column": 8,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Pu",
@@ -988,7 +988,7 @@
         "atomicMass": "(244)",
         "column": 9,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Am",
@@ -997,7 +997,7 @@
         "atomicMass": "(243)",
         "column": 10,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Cm",
@@ -1006,7 +1006,7 @@
         "atomicMass": "(247)",
         "column": 11,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Bk",
@@ -1015,7 +1015,7 @@
         "atomicMass": "(247)",
         "column": 12,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Cf",
@@ -1024,7 +1024,7 @@
         "atomicMass": "(251)",
         "column": 13,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Es",
@@ -1033,7 +1033,7 @@
         "atomicMass": "(252)",
         "column": 14,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Fm",
@@ -1042,7 +1042,7 @@
         "atomicMass": "(257)",
         "column": 15,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Md",
@@ -1051,7 +1051,7 @@
         "atomicMass": "(258)",
         "column": 16,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "No",
@@ -1060,7 +1060,7 @@
         "atomicMass": "(259)",
         "column": 17,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       },
       {
         "symbol": "Lr",
@@ -1069,7 +1069,7 @@
         "atomicMass": "(266)",
         "column": 18,
         "row": 10,
-        "group": "металл"
+        "group": "metal"
       }
     ]
   }
