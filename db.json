@@ -8,7 +8,7 @@
         "atomicMass": 1.007,
         "column": 1,
         "row": 1,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "He",
@@ -17,7 +17,7 @@
         "atomicMass": 4.002,
         "column": 18,
         "row": 1,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Li",
@@ -44,7 +44,7 @@
         "atomicMass": 10.811,
         "column": 13,
         "row": 2,
-        "group": "semi-metal"
+        "group": "semiMetal"
       },
       {
         "symbol": "C",
@@ -53,7 +53,7 @@
         "atomicMass": 12.0107,
         "column": 14,
         "row": 2,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "N",
@@ -62,7 +62,7 @@
         "atomicMass": 14.0067,
         "column": 15,
         "row": 2,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "O",
@@ -71,7 +71,7 @@
         "atomicMass": 15.9994,
         "column": 16,
         "row": 2,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "F",
@@ -80,7 +80,7 @@
         "atomicMass": 18.998,
         "column": 17,
         "row": 2,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Ne",
@@ -89,7 +89,7 @@
         "atomicMass": 20.1797,
         "column": 18,
         "row": 2,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Na",
@@ -125,7 +125,7 @@
         "atomicMass": 28.0855,
         "column": 14,
         "row": 3,
-        "group": "semi-metal"
+        "group": "semiMetal"
       },
       {
         "symbol": "P",
@@ -134,7 +134,7 @@
         "atomicMass": 30.973,
         "column": 15,
         "row": 3,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "S",
@@ -143,7 +143,7 @@
         "atomicMass": 32.065,
         "column": 16,
         "row": 3,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Cl",
@@ -152,7 +152,7 @@
         "atomicMass": 35.453,
         "column": 17,
         "row": 3,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Ar",
@@ -161,7 +161,7 @@
         "atomicMass": 39.948,
         "column": 18,
         "row": 3,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "K",
@@ -287,7 +287,7 @@
         "atomicMass": 72.630,
         "column": 14,
         "row": 4,
-        "group": "semi-metal"
+        "group": "semiMetal"
       },
       {
         "symbol": "As",
@@ -296,7 +296,7 @@
         "atomicMass": 74.922,
         "column": 15,
         "row": 4,
-        "group": "semi-metal"
+        "group": "semiMetal"
       },
       {
         "symbol": "Se",
@@ -305,7 +305,7 @@
         "atomicMass": 78.971,
         "column": 16,
         "row": 4,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Br",
@@ -314,7 +314,7 @@
         "atomicMass": 79.904,
         "column": 17,
         "row": 4,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Kr",
@@ -323,7 +323,7 @@
         "atomicMass": 83.798,
         "column": 18,
         "row": 4,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Rb",
@@ -458,7 +458,7 @@
         "atomicMass": 121.76,
         "column": 15,
         "row": 5,
-        "group": "semi-metal"
+        "group": "semiMetal"
       },
       {
         "symbol": "Te",
@@ -467,7 +467,7 @@
         "atomicMass": 127.60,
         "column": 16,
         "row": 5,
-        "group": "semi-metal"
+        "group": "semiMetal"
       },
       {
         "symbol": "I",
@@ -476,7 +476,7 @@
         "atomicMass": 126.90,
         "column": 17,
         "row": 5,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Xe",
@@ -485,7 +485,7 @@
         "atomicMass": 131.29,
         "column": 18,
         "row": 5,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Cs",
@@ -638,7 +638,7 @@
         "atomicMass": "(210)",
         "column": 17,
         "row": 6,
-        "group": "semi-metal"
+        "group": "semiMetal"
       },
       {
         "symbol": "Rn",
@@ -647,7 +647,7 @@
         "atomicMass": "(222)",
         "column": 18,
         "row": 6,
-        "group": "non-metal"
+        "group": "nonMetal"
       },
       {
         "symbol": "Fr",
